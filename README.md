@@ -4,7 +4,7 @@
 2. using [vue-template-loader](https://github.com/ktsn/vue-template-loader)
 3. not using vue-loader
 4. deadly simple scaffold
-5. modules base folder
+5. modules base on folders
 6. refer to [vue-webpack-template](https://github.com/Toilal/vue-webpack-template), thanks very much!
 
 ## Build Setup
