@@ -1,6 +1,6 @@
 {
-  "name": "vuejs-tranditional-template",
-  "description": "a tranditional html/css/js-style vuejs scaffold template",
+  "name": "vuejs-tranditional-boilerplate",
+  "description": "a tranditional html/css/js-style vuejs scaffold boilerplate",
   "version": "1.0.0",
   "author": "'yudonghan' <'yudonghan@baidu.com'>",
   "scripts": {
